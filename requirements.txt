@@ -8,3 +8,5 @@ librosa
 altair
 numpy
 pandas
+ffmpeg-python
+
