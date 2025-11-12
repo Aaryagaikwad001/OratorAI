@@ -1,5 +1,10 @@
 streamlit==1.30.0
 requests==2.31.0
 gtts
-
-
+protobuf==3.20.3
+SpeechRecognition
+pydub
+librosa
+altair
+numpy
+pandas
